@@ -82,10 +82,10 @@ public class OneFragment extends Fragment {
             return R.string.Rakshitha;
         }else if(candidateName.equals("Shivani")){
             return R.string.Shivani;
-        }else if(candidateName.equals("Deepthi")) {
-            return R.string.Deepthi;
-        }else {
+        }else if(candidateName.equals("Sarayu")) {
             return R.string.Sarayu;
+        }else {
+            return R.string.Deepthi;
         }
     }
 
